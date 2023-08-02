@@ -105,9 +105,5 @@ Zhiyu Huang\*, **Haochen Liu**\*, Chen Lv
 - *2021.08 - Now*, Doctor of Philosophy, Nanyang Technological University, Singapore 
 - *2017.09 - 2021.06*, Bachelor of Engineering, Automation, Beihang University, Beijing, China
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
 # 💻 Internships
 - *2020.10 - 2021.06*, Algorithm Engineer (DATA-EDU), ByteDance, Beijing, China.
