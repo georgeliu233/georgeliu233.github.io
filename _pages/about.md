@@ -33,7 +33,7 @@ Workshop on Autonomous Driving](https://cvpr2023.wad.vision/).
 
 # 📝 Publications 
 
-# Recent Highlights
+## Recent Highlights
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -78,6 +78,22 @@ Zhiyu Huang\*, **Haochen Liu**\*, Chen Lv
 -  We develop a multi-modal hierarchial Transformer sturcture for long-term occupancy and flow prediction fusing visual and vector features from perception.
 </div>
 </div>
+
+## Journal
+- [Differentiable Integrated Motion Prediction and Planning with Learnable Cost Function for Autonomous Driving](https://arxiv.org/abs/2207.10422), Zhiyu Huang, **Haochen Liu**, Chen Lv, **IEEE Transactions on Neural Networks and Learning Systems, 2023**
+
+- [Map-Adaptive Multimodal Trajectory Prediction Using Hierarchical Graph Neural Networks](https://dspace.lib.cranfield.ac.uk/bitstream/handle/1826/19830/Map-adaptive_multimodal_trajectory_prediction-2023.pdf?sequence=1), Xiaoyu Mo, Yang Xing, **Haochen Liu**, Chen Lv, **IEEE Robotics and Automation Letters, 2023**
+  
+- [Conditional Predictive Behavior Planning with Inverse Reinforcement Learning for Human-like Autonomous Driving](https://arxiv.org/abs/2212.08787), Zhiyu Huang, **Haochen Liu**, Jingda Wu, Chen Lv, **IEEE Transactions on Intelligent Transportation Systems, 2023**
+
+
+## Conference
+- [Learning Interaction-aware Motion Prediction Model for Decision-making in Autonomous Driving), Zhiyu Huang, **Haochen Liu**, Jingda Wu, Wenhui Huang, Chen Lv, **IEEE International Conference on Intelligent Transportation Systems (ITSC), 2023** ([**Best Paper/Best Student Paper award nominee**](https://2023.ieee-itsc.org/best-paper-awards/))
+
+- [Improved Deep Reinforcement Learning with Expert Demonstrations for Urban Autonomous Driving](https://arxiv.org/abs/2102.09243), **Haochen Liu**, Zhiyu Huang, Jingda Wu, Chen Lv, **IEEE Intelligent Vehicles Symposium (IV), 2022**
+
+## Preprints
+- [Augmenting Reinforcement Learning with Transformer-based Scene Representation Learning for Decision-making of Autonomous Driving](https://arxiv.org/abs/2208.12263), **Haochen Liu**, Zhiyu Huang, Xiaoyu Mo, Chen Lv, **arXiv, 2022**
 
 # 🎖 Honors and Awards
 - *2023.06* [Innovation Award, nuPlan Planning Challenge](https://opendrivelab.com/AD23Challenge.html#nuplan_planning), CVPR Workshop on End-to-End Autonomous Driving \| [\[video\]](https://youtu.be/ZwhXilQKULY?t=1204)
