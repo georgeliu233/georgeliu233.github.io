@@ -38,6 +38,7 @@ Workshop on Autonomous Driving](https://cvpr2023.wad.vision/).
 <div class='paper-box-text' markdown="1">
 
 **GameFormer: Game-theoretic Modeling and Learning of Transformer-based Interactive Prediction and Planning for Autonomous Driving**
+
 Zhiyu Huang\*, **Haochen Liu**\*, Chen Lv
 
 **IEEE/CVF International Conference on Computer Vision (ICCV), 2023**
@@ -52,6 +53,7 @@ Zhiyu Huang\*, **Haochen Liu**\*, Chen Lv
 <div class='paper-box-text' markdown="1">
 
 **Occupancy Prediction-Guided Neural Planner for Autonomous Driving**
+
  **Haochen Liu**, Zhiyu Huang, Chen Lv
 
 **IEEE International Conference on Intelligent Transportation Systems (ITSC), 2023**
@@ -59,6 +61,21 @@ Zhiyu Huang\*, **Haochen Liu**\*, Chen Lv
 [**Paper**](https://arxiv.org/abs/2305.03303) \| [**Project**](https://github.com/georgeliu233/OPGP) \| [![](https://img.shields.io/github/stars/georgeliu233/OPGP?style=social&label=Code Stars)](https://github.com/georgeliu233/OPGP) 
 
 -  We propose a learning-based prediction-guided motion planner, that imitative planning trajectory is refined by transformed occupancy predictions in an intergated network.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Multi-modal Hierarchical Transformer for Occupancy Flow Field Prediction in Autonomous Driving**
+
+ **Haochen Liu**, Zhiyu Huang, Chen Lv
+
+**IEEE International Conference on Robotics and Automation (ICRA), 2023**
+
+[**Paper**](https://ieeexplore.ieee.org/abstract/document/10160855) \| [**Project**](https://github.com/georgeliu233/STrajNet) \| [![](https://img.shields.io/github/stars/georgeliu233/STrajNet?style=social&label=Code Stars)](https://github.com/georgeliu233/STrajNet) 
+
+-  We develop a multi-modal hierarchial Transformer sturcture for long-term occupancy and flow prediction fusing visual and vector features from perception.
 </div>
 </div>
 
