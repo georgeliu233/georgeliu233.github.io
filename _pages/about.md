@@ -19,8 +19,7 @@ redirect_from:
 
 I am pursuing a Ph.D. in the School of Mechanical and Aerospace Engineering at Nanyang Technological University. My research endeavors are based in the [Automated Driving and Human-Machine System (AutoMan) Lab](https://lvchen.wixsite.com/automan), which is led by Prof. Chen Lyu. 
 
-My research center on the realm of autonomous driving and machine learning. The objective is to develop AI agents for **predictive decisions-making** in autonomous driving techniques. My research interest include deep learning and reinforcement learning for preediction, planning, and decision-making. 
-
+My research center on the realm of autonomous driving and machine learning. The objective is to develop AI agents for **predictive decisions-making** in autonomous driving techniques. My research interest include deep learning and reinforcement learning for prediction, planning, and decision-making framework modeling. 
 
 # 🔥 News
 - *2023.07*: &nbsp;🎉🎉 Our ITSC special session on [learning-powered prediction and decision-making](https://sites.google.com/view/itsc-lpad) has received 17 paper submissions, all of which were accepted. Congrats and looking forward to seeing you in Spain in September!
@@ -34,7 +33,7 @@ Workshop on Autonomous Driving](https://cvpr2023.wad.vision/).
 # 📝 Publications 
 
 ## Recent Highlights
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/gameformer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **GameFormer: Game-theoretic Modeling and Learning of Transformer-based Interactive Prediction and Planning for Autonomous Driving**
@@ -49,7 +48,7 @@ Zhiyu Huang\*, **Haochen Liu**\*, Chen Lv
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ITSC 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ITSC 2023</div><img src='images/opgp.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Occupancy Prediction-Guided Neural Planner for Autonomous Driving**
@@ -64,7 +63,7 @@ Zhiyu Huang\*, **Haochen Liu**\*, Chen Lv
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2023</div><img src='images/strajnet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Multi-modal Hierarchical Transformer for Occupancy Flow Field Prediction in Autonomous Driving**
