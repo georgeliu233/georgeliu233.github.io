@@ -88,7 +88,7 @@ Zhiyu Huang\*, **Haochen Liu**\*, Chen Lv
 
 
 ## Conference
-- [Learning Interaction-aware Motion Prediction Model for Decision-making in Autonomous Driving), Zhiyu Huang, **Haochen Liu**, Jingda Wu, Wenhui Huang, Chen Lv, **IEEE International Conference on Intelligent Transportation Systems (ITSC), 2023** ([**Best Paper/Best Student Paper award nominee**](https://2023.ieee-itsc.org/best-paper-awards/))
+- [Learning Interaction-aware Motion Prediction Model for Decision-making in Autonomous Driving](https://arxiv.org/abs/2302.03939), Zhiyu Huang, **Haochen Liu**, Jingda Wu, Wenhui Huang, Chen Lv, **IEEE International Conference on Intelligent Transportation Systems (ITSC), 2023** ([**Best Paper/Best Student Paper award nominee**](https://2023.ieee-itsc.org/best-paper-awards/))
 
 - [Improved Deep Reinforcement Learning with Expert Demonstrations for Urban Autonomous Driving](https://arxiv.org/abs/2102.09243), **Haochen Liu**, Zhiyu Huang, Jingda Wu, Chen Lv, **IEEE Intelligent Vehicles Symposium (IV), 2022**
 
