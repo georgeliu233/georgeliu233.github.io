@@ -33,18 +33,32 @@ Workshop on Autonomous Driving](https://cvpr2023.wad.vision/).
 
 # 📝 Publications 
 
+# Recent Highlights
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[GameFormer: Game-theoretic Modeling and Learning of Transformer-based Interactive Prediction and Planning for Autonomous Driving](https://arxiv.org/abs/2303.05760)
-
-Zhiyu Huang\*, Haochen Liu\*, Chen Lv
+**GameFormer: Game-theoretic Modeling and Learning of Transformer-based Interactive Prediction and Planning for Autonomous Driving**
+Zhiyu Huang\*, **Haochen Liu**\*, Chen Lv
 
 **IEEE/CVF International Conference on Computer Vision (ICCV), 2023**
 
 [**Paper**](https://arxiv.org/abs/2303.05760) \| [**Project**](https://mczhi.github.io/GameFormer/) \| [![](https://img.shields.io/github/stars/MCZhi/GameFormer?style=social&label=Code Stars)](https://github.com/MCZhi/GameFormer) \| **GameFormer Planner** [![](https://img.shields.io/github/stars/MCZhi/GameFormer-Planner?style=social&label=Code Stars)](https://github.com/MCZhi/GameFormer-Planner) 
 
--  We address the interaction prediction problem by formulating it with hierarchical game theory and implementing it with TransFormer networks.
+-  We address the interaction prediction problem by formulating it with hierarchical game theory and implementing it with Transformer networks.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ITSC 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Occupancy Prediction-Guided Neural Planner for Autonomous Driving**
+ **Haochen Liu**, Zhiyu Huang, Chen Lv
+
+**IEEE International Conference on Intelligent Transportation Systems (ITSC), 2023**
+
+[**Paper**](https://arxiv.org/abs/2305.03303) \| [**Project**](https://github.com/georgeliu233/OPGP) \| [![](https://img.shields.io/github/stars/georgeliu233/OPGP?style=social&label=Code Stars)](https://github.com/georgeliu233/OPGP) 
+
+-  We propose a learning-based prediction-guided motion planner, that imitative planning trajectory is refined by transformed occupancy predictions in an intergated network.
 </div>
 </div>
 
