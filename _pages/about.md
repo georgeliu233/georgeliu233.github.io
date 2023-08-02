@@ -38,7 +38,7 @@ Workshop on Autonomous Driving](https://cvpr2023.wad.vision/).
 
 [GameFormer: Game-theoretic Modeling and Learning of Transformer-based Interactive Prediction and Planning for Autonomous Driving](https://arxiv.org/abs/2303.05760)
 
-Zhiyu Huang*, Haochen Liu*, Chen Lv
+Zhiyu Huang\*, Haochen Liu\*, Chen Lv
 
 **IEEE/CVF International Conference on Computer Vision (ICCV), 2023**
 
