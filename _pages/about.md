@@ -19,7 +19,7 @@ redirect_from:
 
 I am pursuing a Ph.D. in the School of Mechanical and Aerospace Engineering at Nanyang Technological University. My research endeavors are based in the [Automated Driving and Human-Machine System (AutoMan) Lab](https://lvchen.wixsite.com/automan), which is led by Prof. Chen Lyu. 
 
-My research center on the realm of autonomous driving and machine learning. The objective is to develop AI agents for predictive decisions-making in autonomous driving techniques. My research interest include deep learning and reinforcement learning for preediction, planning and decision-making. 
+My research center on the realm of autonomous driving and machine learning. The objective is to develop AI agents for **predictive decisions-making** in autonomous driving techniques. My research interest include deep learning and reinforcement learning for preediction, planning, and decision-making. 
 
 
 # 🔥 News
@@ -80,11 +80,11 @@ Zhiyu Huang\*, **Haochen Liu**\*, Chen Lv
 </div>
 
 ## Journal
-- [Differentiable Integrated Motion Prediction and Planning with Learnable Cost Function for Autonomous Driving](https://arxiv.org/abs/2207.10422), Zhiyu Huang, **Haochen Liu**, Chen Lv, **IEEE Transactions on Neural Networks and Learning Systems, 2023** [![](https://img.shields.io/github/stars/MCZhi/DIPP?style=social&label=Code Stars)](https://github.com/MCZhi/DIPP)
+- [Differentiable Integrated Motion Prediction and Planning with Learnable Cost Function for Autonomous Driving](https://arxiv.org/abs/2207.10422), Zhiyu Huang, **Haochen Liu**, Chen Lv, **IEEE Transactions on Neural Networks and Learning Systems (T-NNLS), 2023** [![](https://img.shields.io/github/stars/MCZhi/DIPP?style=social&label=Code Stars)](https://github.com/MCZhi/DIPP)
 
-- [Map-Adaptive Multimodal Trajectory Prediction Using Hierarchical Graph Neural Networks](https://dspace.lib.cranfield.ac.uk/bitstream/handle/1826/19830/Map-adaptive_multimodal_trajectory_prediction-2023.pdf?sequence=1), Xiaoyu Mo, Yang Xing, **Haochen Liu**, Chen Lv, **IEEE Robotics and Automation Letters, 2023**
+- [Map-Adaptive Multimodal Trajectory Prediction Using Hierarchical Graph Neural Networks](https://dspace.lib.cranfield.ac.uk/bitstream/handle/1826/19830/Map-adaptive_multimodal_trajectory_prediction-2023.pdf?sequence=1), Xiaoyu Mo, Yang Xing, **Haochen Liu**, Chen Lv, **IEEE Robotics and Automation Letters (RAL), 2023**
   
-- [Conditional Predictive Behavior Planning with Inverse Reinforcement Learning for Human-like Autonomous Driving](https://arxiv.org/abs/2212.08787), Zhiyu Huang, **Haochen Liu**, Jingda Wu, Chen Lv, **IEEE Transactions on Intelligent Transportation Systems, 2023**
+- [Conditional Predictive Behavior Planning with Inverse Reinforcement Learning for Human-like Autonomous Driving](https://arxiv.org/abs/2212.08787), Zhiyu Huang, **Haochen Liu**, Jingda Wu, Chen Lv, **IEEE Transactions on Intelligent Transportation Systems (T-ITS), 2023**
 
 
 ## Conference
