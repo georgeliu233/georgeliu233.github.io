@@ -22,6 +22,7 @@ I am pursuing a Ph.D. in the School of Mechanical and Aerospace Engineering at N
 My research center on the realm of autonomous driving and machine learning. The objective is to develop AI agents for **predictive decisions-making** in autonomous driving techniques. My research interest include deep learning and reinforcement learning for prediction, planning, and decision-making framework modeling. 
 
 # 🔥 News
+- *2023.08*: &nbsp;🎉🎉 Our GameFormer paper has been selected as Oral Presentation for International Conference on Computer Vision (ICCV)! Code is also available!
 - *2023.07*: &nbsp;🎉🎉 Our ITSC special session on [learning-powered prediction and decision-making](https://sites.google.com/view/itsc-lpad) has received 17 paper submissions, all of which were accepted. Congrats and looking forward to seeing you in Spain in September!
 - *2023.07*: &nbsp;🎉🎉 Our GameFormer paper has been accepted by International Conference on Computer Vision (ICCV)! We will be releasing the code soon, so stay tuned for updates.
 - *2023.07*: &nbsp;🎉🎉 Two of our papers on predictive decision-making/planning have been accepted by the International Conference on Intelligent Transportation Systems (ITSC)!
@@ -33,14 +34,14 @@ Workshop on Autonomous Driving](https://cvpr2023.wad.vision/).
 # 📝 Publications 
 
 ## Recent Highlights
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/gameformer.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV (Oral) 2023</div><img src='images/gameformer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **GameFormer: Game-theoretic Modeling and Learning of Transformer-based Interactive Prediction and Planning for Autonomous Driving**
 
 Zhiyu Huang\*, **Haochen Liu**\*, Chen Lv
 
-**IEEE/CVF International Conference on Computer Vision (ICCV), 2023**
+**IEEE/CVF International Conference on Computer Vision (ICCV Oral), 2023**
 
 [**Paper**](https://arxiv.org/abs/2303.05760) \| [**Project**](https://mczhi.github.io/GameFormer/) \| [![](https://img.shields.io/github/stars/MCZhi/GameFormer?style=social&label=Code Stars)](https://github.com/MCZhi/GameFormer) \| **GameFormer Planner** [![](https://img.shields.io/github/stars/MCZhi/GameFormer-Planner?style=social&label=Code Stars)](https://github.com/MCZhi/GameFormer-Planner) 
 
