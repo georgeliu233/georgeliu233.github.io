@@ -80,6 +80,8 @@ Zhiyu Huang\*, **Haochen Liu**\*, Chen Lv
 </div>
 
 ## Journal
+- [Augmenting Reinforcement Learning with Transformer-based Scene Representation Learning for Decision-making of Autonomous Driving](https://arxiv.org/abs/2208.12263), **Haochen Liu**, Zhiyu Huang, Xiaoyu Mo, Chen Lv, **IEEE Transactions on Intelligent Vehicles (T-IV), 2024** [![](https://img.shields.io/github/stars/georgeliu233/Scene-Rep-Transformer?style=social&label=Code Stars)](https://github.com/georgeliu233/Scene-Rep-Transformer)
+  
 - [Differentiable Integrated Motion Prediction and Planning with Learnable Cost Function for Autonomous Driving](https://arxiv.org/abs/2207.10422), Zhiyu Huang, **Haochen Liu**, Jingda Wu, Chen Lv, **IEEE Transactions on Neural Networks and Learning Systems (T-NNLS), 2023** [![](https://img.shields.io/github/stars/MCZhi/DIPP?style=social&label=Code Stars)](https://github.com/MCZhi/DIPP)
 
 - [Map-Adaptive Multimodal Trajectory Prediction Using Hierarchical Graph Neural Networks](https://dspace.lib.cranfield.ac.uk/bitstream/handle/1826/19830/Map-adaptive_multimodal_trajectory_prediction-2023.pdf?sequence=1), Xiaoyu Mo, Yang Xing, **Haochen Liu**, Chen Lv, **IEEE Robotics and Automation Letters (RA-L), 2023**
@@ -93,7 +95,8 @@ Zhiyu Huang\*, **Haochen Liu**\*, Chen Lv
 - [Improved Deep Reinforcement Learning with Expert Demonstrations for Urban Autonomous Driving](https://arxiv.org/abs/2102.09243), **Haochen Liu**, Zhiyu Huang, Jingda Wu, Chen Lv, **IEEE Intelligent Vehicles Symposium (IV), 2022** 
 
 ## Preprints
-- [Augmenting Reinforcement Learning with Transformer-based Scene Representation Learning for Decision-making of Autonomous Driving](https://arxiv.org/abs/2208.12263), **Haochen Liu**, Zhiyu Huang, Xiaoyu Mo, Chen Lv, **arXiv, 2022** [![](https://img.shields.io/github/stars/georgeliu233/Scene-Rep-Transformer?style=social&label=Code Stars)](https://github.com/georgeliu233/Scene-Rep-Transformer)
+- [Hybrid-Prediction Integrated Planning for Autonomous Driving](https://arxiv.org/abs/2402.02426), **Haochen Liu**, Zhiyu Huang, Wenhui Huang, Haohan Yang, Xiaoyu Mo Chen Lv, **arxiv preprint, 2024** [![](https://img.shields.io/github/stars/georgeliu233/HPP?style=social&label=Code Stars)](https://github.com/georgeliu233/HPP)
+
 
 # 🎖 Honors and Awards
 - *2023.06* [Innovation Award, nuPlan Planning Challenge](https://opendrivelab.com/AD23Challenge.html#nuplan_planning), CVPR Workshop on End-to-End Autonomous Driving 
