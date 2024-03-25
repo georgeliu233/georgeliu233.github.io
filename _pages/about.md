@@ -87,10 +87,16 @@ Zhiyu Huang\*, **Haochen Liu**\*, Chen Lv
 - [Map-Adaptive Multimodal Trajectory Prediction Using Hierarchical Graph Neural Networks](https://dspace.lib.cranfield.ac.uk/bitstream/handle/1826/19830/Map-adaptive_multimodal_trajectory_prediction-2023.pdf?sequence=1), Xiaoyu Mo, Yang Xing, **Haochen Liu**, Chen Lv, **IEEE Robotics and Automation Letters (RA-L), 2023**
   
 - [Conditional Predictive Behavior Planning with Inverse Reinforcement Learning for Human-like Autonomous Driving](https://arxiv.org/abs/2212.08787), Zhiyu Huang, **Haochen Liu**, Jingda Wu, Chen Lv, **IEEE Transactions on Intelligent Transportation Systems (T-ITS), 2023**
+  
+- [Map-Adaptive Multimodal Trajectory Prediction via Intention-Aware Unimodal Trajectory Predictors](https://ieeexplore.ieee.org/abstract/document/10323217/) Xiaoyu Mo, **Haochen Liu**, Zhiyu Huang, Xiuxian Li, Chen Lv, **IEEE Transactions on Intelligent Transportation Systems (T-ITS), 2023**
+
+- [Quantitative identification of driver distraction: A weakly supervised contrastive learning approach](https://ieeexplore.ieee.org/abstract/document/10265761/) Haohan Yang, **Haochen Liu**, Zhongxu Hu, Anh-Tu Nguyen, Thierry-Marie Guerra, Chen Lv, **IEEE Transactions on Intelligent Transportation Systems (T-ITS), 2023**
 
 
 ## Conference
 - [Learning Interaction-aware Motion Prediction Model for Decision-making in Autonomous Driving](https://arxiv.org/abs/2302.03939), Zhiyu Huang, **Haochen Liu**, Jingda Wu, Wenhui Huang, Chen Lv, **IEEE International Conference on Intelligent Transportation Systems (ITSC), 2023** ([**Best Paper Award Runner-up**](https://2023.ieee-itsc.org/best-paper-awards/)) [![](https://img.shields.io/github/stars/MCZhi/Predictive-Decision?style=social&label=Code Stars)](https://github.com/MCZhi/Predictive-Decision)
+
+- [Dynamic Edge Caching via Online Meta-RL](https://ieeexplore.ieee.org/abstract/document/10191608/) Yinan Mao, Shiji Zhou, **Haochen Liu**, Zhi Wang, Wenwu Zhu, **International Joint Conference on Neural Networks, 2023**
 
 - [Improved Deep Reinforcement Learning with Expert Demonstrations for Urban Autonomous Driving](https://arxiv.org/abs/2102.09243), **Haochen Liu**, Zhiyu Huang, Jingda Wu, Chen Lv, **IEEE Intelligent Vehicles Symposium (IV), 2022** 
 
