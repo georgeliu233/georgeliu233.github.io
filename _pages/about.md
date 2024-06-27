@@ -22,6 +22,7 @@ I am pursuing a Ph.D. in the School of Mechanical and Aerospace Engineering at N
 My research center on the realm of autonomous driving and machine learning. The objective is to develop AI agents for **predictive decisions-making** in autonomous driving techniques. My research interest include deep learning and reinforcement learning for prediction, planning, and decision-making framework modeling. 
 
 # 🔥 News
+- *2024.06*: &nbsp;🎉🎉 Our team won the [Champion of 2024 Waymo Open Dataset Occupancy and Flow Prediction Challenge](http://cvpr2024.wad.vision/). Check out more for our [team report](https://storage.googleapis.com/waymo-uploads/files/research/2024%20Technical%20Reports/2024%20WOD%20Occupancy%20Flow%20Challenge%20-%201st%20Place%20-%20DOPP.pdf) and original implementation based on our [HPP paper](https://arxiv.org/abs/2402.02426).
 - *2023.08*: &nbsp;🎉🎉 Our GameFormer paper has been selected as Oral Presentation for International Conference on Computer Vision (ICCV)! Code is also available!
 - *2023.07*: &nbsp;🎉🎉 Our ITSC special session on [learning-powered prediction and decision-making](https://sites.google.com/view/itsc-lpad) has received 17 paper submissions, all of which were accepted. Congrats and looking forward to seeing you in Spain in September!
 - *2023.07*: &nbsp;🎉🎉 Our GameFormer paper has been accepted by International Conference on Computer Vision (ICCV)! We will be releasing the code soon, so stay tuned for updates.
@@ -105,6 +106,7 @@ Zhiyu Huang\*, **Haochen Liu**\*, Chen Lv
 
 
 # 🎖 Honors and Awards
+- *2024.06* [1st Place Winner, Waymo Open Dataset Occupancy and Flow Prediction Challenge](http://cvpr2024.wad.vision/), CVPR Workshop on Autonomous Driving
 - *2023.06* [Innovation Award, nuPlan Planning Challenge](https://opendrivelab.com/AD23Challenge.html#nuplan_planning), CVPR Workshop on End-to-End Autonomous Driving 
 - *2023.06* [3rd Place Winner, Waymo Open Dataset Motion Prediction Challenge](http://cvpr2023.wad.vision/), CVPR Workshop on Autonomous Driving
 - *2022.12* [3rd Place Winner, Most Innovative Award, Driving SMARTS Competition](https://smarts-project.github.io/archive/2022_nips_driving_smarts/competition/), NeurIPS Competition Track \| [\[slides\]](https://smarts-project.github.io/assets/docs/aid_driving_smarts.pdf)
@@ -115,4 +117,5 @@ Zhiyu Huang\*, **Haochen Liu**\*, Chen Lv
 - *2017.09 - 2021.06*, Bachelor of Engineering, Automation, Beihang University, Beijing, China
 
 # 💻 Internships
+- *2024-Now*, Research Intern (Remote), [OpenDriveLab](https://opendrivelab.com/), China.
 - *2020.10 - 2021.06*, Algorithm Engineer (DATA-EDU), ByteDance, Beijing, China.
