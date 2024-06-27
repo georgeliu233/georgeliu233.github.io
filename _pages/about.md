@@ -118,4 +118,5 @@ Zhiyu Huang\*, **Haochen Liu**\*, Chen Lv
 
 # 💻 Internships
 - *2024-Now*, Research Intern (Remote), [OpenDriveLab](https://opendrivelab.com/), China.
+- *2021.06 - 2021.08* VC Intern, [MiraclePlus](https://www.miracleplus.com/), Beijing, China
 - *2020.10 - 2021.06*, Algorithm Engineer (DATA-EDU), ByteDance, Beijing, China.
