@@ -80,6 +80,10 @@ Zhiyu Huang\*, **Haochen Liu**\*, Chen Lv
 </div>
 </div>
 
+## Talks
+- *2024.06* **Interactive Prediction and Planning for Autonomous Driving: Method and Thoughts** in [ADHeart](www.zdjszx.com), online. [Link](https://www.bilibili.com/opus/943962468011474950?spm_id_from=333.999.0.0)
+- *2024.06* **Prediction and Planning: Integration Methodology and Challenges** in CVPR'24 wE2EAD, [OpenDriveLab@Shanghai AI Lab](https://opendrivelab.com/), Shanghai. [Link](https://www.bilibili.com/video/BV11b421J76g/?spm_id_from=333.337.search-card.all.click) 
+
 ## Journal
 - [Augmenting Reinforcement Learning with Transformer-based Scene Representation Learning for Decision-making of Autonomous Driving](https://arxiv.org/abs/2208.12263), **Haochen Liu**, Zhiyu Huang, Xiaoyu Mo, Chen Lv, **IEEE Transactions on Intelligent Vehicles (T-IV), 2024** [![](https://img.shields.io/github/stars/georgeliu233/Scene-Rep-Transformer?style=social&label=Code Stars)](https://github.com/georgeliu233/Scene-Rep-Transformer)
   
