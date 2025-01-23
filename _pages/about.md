@@ -35,6 +35,38 @@ Workshop on Autonomous Driving](https://cvpr2023.wad.vision/).
 # 📝 Publications 
 
 ## Recent Highlights
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-PAMI 2025</div><img src='images/hpp.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Hybrid-Prediction Integrated Planning for Autonomous Driving**
+
+**Haochen Liu**, Zhiyu Huang, Wenhui Huang, Haohan Yang, Xiaoyu Mo, Chen Lv
+
+**IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI), 2025**
+
+[**Paper**](https://ieeexplore.ieee.org/abstract/document/10833731/) \| [**Project**](https://github.com/georgeliu233/HPP) \| [![](https://img.shields.io/github/stars/georgeliu233/HPP?style=social&label=Code Stars)](https://github.com/georgeliu233/HPP)
+
+-  A collborative design and optimization framework for end-to-end autonomous driving system that integrates hybrid prediction forms and motion planning.
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/betopnet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Reasoning Multi-Agent Behavioral Topology for Interactive Autonomous Driving**
+
+**Haochen Liu**, Li Chen, Yu Qiao, Chen Lv, Hongyang Li
+
+**Advances in Neural Information Processing Systems (NeurIPS), 2024**
+
+[**Paper**](https://arxiv.org/abs/2409.18031) \| [**Project**](https://github.com/OpenDriveLab/BeTop) \| [![](https://img.shields.io/github/stars/OpenDriveLab/BeTop?style=social&label=Code Stars)](https://github.com/OpenDriveLab/BeTop) 
+
+-  A synergistic framework for interactive behavior reasoning that enhances multi-agent prediction and planning.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV (Oral) 2023</div><img src='images/gameformer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -81,10 +113,15 @@ Zhiyu Huang\*, **Haochen Liu**\*, Chen Lv
 </div>
 
 ## Talks
+- *2024.12* **Reasoning Multi-Agent Behavioral Topology for Interactive Autonomous Driving*** in [ADHeart](www.zdjszx.com)
 - *2024.06* **Interactive Prediction and Planning for Autonomous Driving: Method and Thoughts** in [ADHeart](www.zdjszx.com), online. [Link](https://www.bilibili.com/opus/943962468011474950?spm_id_from=333.999.0.0)
 - *2024.06* **Prediction and Planning: Integration Methodology and Challenges** in CVPR'24 wE2EAD, [OpenDriveLab@Shanghai AI Lab](https://opendrivelab.com/), Shanghai. [Link](https://www.bilibili.com/video/BV11b421J76g/?spm_id_from=333.337.search-card.all.click) 
 
 ## Journal
+- [Human-Guided Continual Learning for Personalized Decision-Making of Autonomous Driving](https://ieeexplore.ieee.org/abstract/document/10844014) Haohan Yang, Yanxin Zhou, Jingda Wu, **Haochen Liu**, Lie Yang, Chen Lv, **IEEE Transactions on Intelligent Transportation Systems (T-ITS), 2025**
+
+- [Safety-aware human-in-the-loop reinforcement learning with shared control for autonomous driving](https://ieeexplore.ieee.org/abstract/document/10596046) Wenhui Huang, **Haochen Liu**, Zhiyu Huang, Chen Lv, **IEEE Transactions on Intelligent Transportation Systems (T-ITS), 2024**
+
 - [Augmenting Reinforcement Learning with Transformer-based Scene Representation Learning for Decision-making of Autonomous Driving](https://arxiv.org/abs/2208.12263), **Haochen Liu**, Zhiyu Huang, Xiaoyu Mo, Chen Lv, **IEEE Transactions on Intelligent Vehicles (T-IV), 2024** [![](https://img.shields.io/github/stars/georgeliu233/Scene-Rep-Transformer?style=social&label=Code Stars)](https://github.com/georgeliu233/Scene-Rep-Transformer)
   
 - [Differentiable Integrated Motion Prediction and Planning with Learnable Cost Function for Autonomous Driving](https://arxiv.org/abs/2207.10422), Zhiyu Huang, **Haochen Liu**, Jingda Wu, Chen Lv, **IEEE Transactions on Neural Networks and Learning Systems (T-NNLS), 2023** [![](https://img.shields.io/github/stars/MCZhi/DIPP?style=social&label=Code Stars)](https://github.com/MCZhi/DIPP)
@@ -106,7 +143,7 @@ Zhiyu Huang\*, **Haochen Liu**\*, Chen Lv
 - [Improved Deep Reinforcement Learning with Expert Demonstrations for Urban Autonomous Driving](https://arxiv.org/abs/2102.09243), **Haochen Liu**, Zhiyu Huang, Jingda Wu, Chen Lv, **IEEE Intelligent Vehicles Symposium (IV), 2022** 
 
 ## Preprints
-- [Hybrid-Prediction Integrated Planning for Autonomous Driving](https://arxiv.org/abs/2402.02426), **Haochen Liu**, Zhiyu Huang, Wenhui Huang, Haohan Yang, Xiaoyu Mo Chen Lv, **arxiv preprint, 2024** [![](https://img.shields.io/github/stars/georgeliu233/HPP?style=social&label=Code Stars)](https://github.com/georgeliu233/HPP)
+- Coming soon
 
 
 # 🎖 Honors and Awards
